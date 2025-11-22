@@ -1,0 +1,4 @@
+django
+google-generativeai
+django-cors-headers
+python-dotenv
